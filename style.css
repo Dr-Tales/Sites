@@ -1,0 +1,8 @@
+.AlinhadoCentro{
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+font-family: Arial, sans-serif;
+.ExemploBorda{ border: 5px solid red;}
+}
